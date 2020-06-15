@@ -1,0 +1,26 @@
+<annotation>
+	<folder>silhouettes</folder>
+	<filename>four_129.jpg</filename>
+	<path>D:\Human-Robot_Finger-Counting_Dataset\Example_Datasets\Human_Fingers_1000_200_200\training_set/four_129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>155</ymin>
+			<xmax>528</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

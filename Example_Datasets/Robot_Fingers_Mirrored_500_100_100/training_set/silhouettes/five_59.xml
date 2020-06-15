@@ -1,0 +1,26 @@
+<annotation>
+	<folder>silhouettes</folder>
+	<filename>five_59.jpg</filename>
+	<path>D:\Human-Robot_Finger-Counting_Dataset\Example_Datasets\Robot_Fingers_Mirrored_500_100_100\training_set/five_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>208</ymin>
+			<xmax>456</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
